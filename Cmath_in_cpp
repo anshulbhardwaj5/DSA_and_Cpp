@@ -1,0 +1,12 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main()
+{
+	cout << "Square is: " << sqrt(4) << endl;   // Square Root of a number. 
+	cout << "Round is: " <<round(2.22) << endl; // Round of a number that means only int value will be displayed.
+	cout << "Log is: " <<log(2) << endl;        // Log of a number 
+  return 0;
+}
