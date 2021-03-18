@@ -1,0 +1,29 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string name, fname;
+    int age, fage;
+
+    cout << "Enter Your Name: ";
+    cin >> name;
+
+    cout << "Enter Your Age: ";
+    cin >> age;
+
+    cout << "Enter Your Father's Name: ";
+    cin >> fname;
+
+    cout << "Enter Your Father's age: ";
+    cin >> fage;
+
+    cout << "Your Name is: " << name << endl;
+    cout << "Your Age is: " << age << endl;
+    cout << "Your Father's Name is: " << fname << endl;
+    cout << "Your Father's age is: " << fage << endl;
+
+    return 0;
+}
