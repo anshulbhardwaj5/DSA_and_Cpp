@@ -1,0 +1,11 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    cout << "Which one is Maximum number 3 or 10? " << max(3,10)<< endl;
+    cout << "Which one is Minimum number 3 or 10? " << min(3,10) << endl;
+    return 0;
+}
