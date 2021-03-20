@@ -23,3 +23,6 @@ else:
 
 arr.reverse() # Here we are reversing the array
 print(arr,"Array reversed")
+
+arr.reverse() # Here we are reversing the array
+print(arr,"Array reversed")
